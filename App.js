@@ -8,10 +8,10 @@ import AboutScreen from './screens/AboutScreen';
 
 const RootStack = createStackNavigator({
         Home: {
-            screen: HomeScreen
+            screen: HomeScreen,
         },
         About: {
-            screen: AboutScreen
+            screen: AboutScreen,
         },
     },
     {

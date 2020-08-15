@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95903bd4-4fef-44bc-b417-5c559de07ebb" name="Default Changelist" comment="" />
+    <list default="true" id="95903bd4-4fef-44bc-b417-5c559de07ebb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/AboutScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/AboutScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/HomeScreen.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -64,7 +71,7 @@
       <updated>1597483158279</updated>
       <workItem from="1597483160640" duration="9000" />
       <workItem from="1597483177941" duration="4578000" />
-      <workItem from="1597488348928" duration="1707000" />
+      <workItem from="1597488348928" duration="6179000" />
     </task>
     <servers />
   </component>
@@ -77,6 +84,14 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="2754" y="418" key="Github.ShareDialog" timestamp="1597490498075">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2754" y="418" key="Github.ShareDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597490498075" />
+    <state x="2658" y="225" key="Github.UntrackedFilesDialog" timestamp="1597490504412">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2658" y="225" key="Github.UntrackedFilesDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597490504412" />
     <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1597489607853">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -93,9 +108,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597489607852" />
-    <state x="2381" y="165" key="SettingsEditor" timestamp="1597484476781">
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1597490394278">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2381" y="165" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597484476781" />
+    <state x="2381" y="165" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597490394278" />
   </component>
 </project>
