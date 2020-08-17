@@ -4,7 +4,10 @@ import {StyleSheet, Text, View} from 'react-native';
 export default class AboutScreen extends React.Component {
     static navigationOptions = {
         title: `About`,
-        headerStyle: { backgroundColor: '#0081CF' },
+        titleColor: "#fff",
+        headerStyle: {
+            backgroundColor: '#0081CF'
+        },
     };
     render() {
         return (
