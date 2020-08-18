@@ -1,9 +1,9 @@
 import React from 'react';
-import {StyleSheet, Text, View, Button, Image, TouchableHighlight} from 'react-native';
+import {Image, StyleSheet, TouchableHighlight, View} from 'react-native';
 
 export default class HomeScreen extends React.Component {
     static navigationOptions = {
-        title: `Home`,
+        title: `Home Share`,
         titleColor: "#fff",
         headerStyle: {
             backgroundColor: '#0081CF'
